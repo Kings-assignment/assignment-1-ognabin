@@ -3,7 +3,6 @@ int main() {
     int result;
     char character;
 
-
     printf("Enter the character: ", &character);
     scanf("%c", &character);
 
@@ -14,4 +13,3 @@ int main() {
     return 0;
 
 }
-
